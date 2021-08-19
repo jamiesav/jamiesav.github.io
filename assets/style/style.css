@@ -30,3 +30,8 @@ table th {
 table {
     border: 1px solid black;
 }
+
+table td {
+    margin: 0;
+    border: 1px solid black;
+}
